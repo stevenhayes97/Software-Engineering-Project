@@ -75,7 +75,7 @@
 <html>
    <head>
       <link rel="icon" type="image/png" href="favicon.png" />
-      <link href="DBview.css" rel="stylesheet" type="text/css" />
+      <link href="styles.css" rel="stylesheet" type="text/css" />
       <title>Create Staff Account</title>
    </head>
    <img id="header" src = "darklogo.png" alt="logo"><br><br><br><br><br><br><br><br><br>

@@ -78,7 +78,7 @@
       <link href="styles.css" rel="stylesheet" type="text/css" />
       <title>Create Staff Account</title>
    </head>
-   <img id="header" src = "darklogo.png" alt="logo"><br><br><br><br><br><br><br><br><br>
+   <br><br><br><br><br><br><br><br><br>
    <h1>Staff View</h1>
    <br><br><br><br><br><br><br>
    <div class="tabs">
